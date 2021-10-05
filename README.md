@@ -13,7 +13,7 @@
 * Must deploy your application in some publicly accessible way (Heroku, Digital Ocean, AWS, etc)
 
 ### Instructions
-Build your team and write a document describing your application to me by Wed, March 31, 2021. I will approve your web application idea. In your paper, include:
+Build your team and write a document describing your application to me by Tuesday, OCT 19, 2021. I will approve your web application idea. In your paper, include:
 * the name of your application
 * name and roles of all your team members
 * its functionality
