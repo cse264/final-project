@@ -1,6 +1,6 @@
 # Final Project
 
-## Due Friday, May 7, 2021
+## Due Tuesday, OCT 19, 2021
 
 ### Build a web app in a team of 5-6
 
