@@ -1,7 +1,7 @@
 # Final Project
 
 ## Due Last day of Class
-## First report due Mon Oct 23 2023
+## First report due Monday Oct 28, 2024
 
 ### Build a web app in a team of 4-5
 
@@ -15,10 +15,10 @@
 * Feel free to build off other projects and frameworks. For example [https://github.com/sahat/hackathon-starter] is a great starter project that you can build on top of. 
 
 ### Instructions
-Build your team and write a document describing your application to me by Mon Oct 23, 2023. I will approve your web application idea. In your paper, include:
+Build your team and write a document describing your application to me by Monday Oct 28, 2024. Email this document to me and the TA for this course (Xinhui Chen xic721@lehigh.edu)  I will approve your web application idea. In your paper, include:
 * the name of your application
 * Name and roles of all your team members
-* its functionality (how does it meet each of the requirements listed above)
+* its functionality (how does it meet each of the requirements listed above - list each requirement along with your will fulfill it)
 * user story/use case (what happens when a user visits your application, what can they do, etc)
 * technical design (what is your tech stack)
 
